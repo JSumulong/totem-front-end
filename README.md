@@ -10,5 +10,5 @@ The front end side of Project Totem is a native Android application that allows 
 * Adam Vera (ajvera)
 
 ## Dependencies
-The front end side of Project Totem requires a connection to the [web socket server](https://github.com/hopkins571/totem-ws-server) that comprises the back end of the project. This web socket server has recently been deployed on Heroku using Node.js.
+The front end side of Project Totem requires a connection to the [web socket server](https://github.com/JSumulong/totem-ws-server) that comprises the back end of the project. This web socket server has recently been deployed on Heroku using Node.js.
 

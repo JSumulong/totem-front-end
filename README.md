@@ -3,6 +3,8 @@
 ## Purpose
 The front end side of Project Totem is a native Android application that allows users to find other users in augmented reality. This project was designed to allow the contributing members an opportunity to learn new technology at a rapid pace under the pressure of an eight day time constraint and with the expectation of presenting a working demo during the 2016 Coyotes graduation ceremony.
 
+To view a demo of Totem in action click [here](https://www.youtube.com/watch?v=GDHaZSJvmkk).
+
 ## Members
 * Sam Hopkins (hopkins571)
 * Jonathan Sumulong (jsumulong)
